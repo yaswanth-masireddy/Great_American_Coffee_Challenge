@@ -1,0 +1,5 @@
+These were selected to answer 3 main questions:
+
+What roast level do Americans prefer? (light [A] vs medium [B] vs dark [C])
+Do they show a preferences for fermented, fruity flavors? (washed [A] vs natural [D])
+What is the most popular coffee?
